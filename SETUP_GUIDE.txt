@@ -1,0 +1,17 @@
+# EduNFC - Complete Setup Guide
+
+## 📋 Prerequisites
+- Node.js 18+ installed
+- Git installed
+- Vercel account (free)
+- Code editor (VS Code recommended)
+
+## 🚀 Quick Start
+
+### 1. Clone/Download the Repository
+```bash
+# If using Git
+git clone <your-repository-url>
+cd edunfc-app
+
+# Or download ZIP and extract
